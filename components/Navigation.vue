@@ -9,7 +9,7 @@
     </nav>
   </div>
 </template>
-
+ 
 <script>
   import {mapState} from 'vuex';
 
