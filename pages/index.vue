@@ -12,7 +12,7 @@
 
   import {createClient} from '../plugins/contentful';
   const contentfulClient = createClient();
-
+ 
   export default {
     components: {
       Navigation
