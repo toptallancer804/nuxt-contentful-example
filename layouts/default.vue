@@ -4,7 +4,7 @@
     <nuxt/>
   </div>
 </template>
-
+ 
 
 <script>
   import Navigation from '../components/Navigation';
