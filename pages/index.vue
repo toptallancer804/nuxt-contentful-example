@@ -5,7 +5,7 @@
       <p>This is a website for demo purposes of using Nuxt & Contentful together</p>
     </div>
   </section>
-</template>
+</template> 
 
 <script>
   import Navigation from '../components/Navigation';
